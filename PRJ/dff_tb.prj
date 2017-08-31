@@ -1,0 +1,2 @@
+vhdl work ../SRC/dff.vhd
+vhdl work ../BENCH/dff_tb.vhd
